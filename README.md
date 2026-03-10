@@ -1,223 +1,209 @@
-<!-- meta:og:description AI Forensic Agents — Human-managed investigative services and tools for analyzing, attributing, and remediating AI-caused damages. Epistemologically rigorous. Adversarially robust. Unhinged levels of accountability. -->
+<!--
+<meta property="og:title" content="AI Forensic Agents — Historical Precedent for AI Risk Governance" />
+<meta property="og:description" content="A human-centered AI harms investigation service. Drawing on the catastrophic steam boiler disasters of the 19th century, we articulate the imperative for robust AI regulatory frameworks, evolved social norms, and technological safeguards." />
+<meta property="og:image" content="https://raw.githubusercontent.com/AIForensicAgents/ai-forensic-agents-mkgt/main/ad-image.png" />
+<meta property="og:url" content="https://github.com/AIForensicAgents/ai-forensic-agents-mkgt" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="AI Forensic Agents" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AI Forensic Agents — Historical Precedent for AI Risk Governance" />
+<meta name="twitter:description" content="Every transformative technology precipitates catastrophic failures demanding regulatory frameworks. Steam boiler disasters illuminate the path forward for AI governance." />
+<meta name="twitter:image" content="https://raw.githubusercontent.com/AIForensicAgents/ai-forensic-agents-mkgt/main/ad-image.png" />
+-->
 
-# 🔬🔥 AI FORENSIC AGENTS — MARKETING KIT 🔥🔬
+# 🔍🤖 AI Forensic Agents — *When Machines Fail, We Investigate*
 
-### `ai-forensic-agents-mkgt`
-
-![AI Forensic Agents Banner](assets/ai-forensic-agents-banner.png)
+### *Human-Centered AI Harms Investigation · Historical Precedent · Regulatory Imperatives*
 
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-neon--green.svg)](#license)
-[![Status: Active](https://img.shields.io/badge/Status-Active-blueviolet.svg)](#)
-[![Marketing Kit Version](https://img.shields.io/badge/Kit_Version-1.0.0-ff69b4.svg)](#)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](#contributing)
-[![AI Accountability](https://img.shields.io/badge/AI_Accountability-Non--Negotiable-red.svg)](#services-overview)
-[![Vibes](https://img.shields.io/badge/Vibes-Immaculate-orange.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Research PDF](https://img.shields.io/badge/Research-Steam%20Boiler%20Disasters%20PDF-critical)](https://github.com/AIForensicAgents/steam-boiler-disasters-nature-article/blob/bca7a0440c4f9b9170ca50dbc8c4872b0813f174/Steam_Boiler_Disasters_Historical_Analysis.pdf)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
 ---
 
 ## 📖 About
 
-Okay bestie, let's unpack this because it's genuinely unhinged how little infrastructure exists for when AI systems absolutely obliterate people's lives and everyone just shrugs. **AI Forensic Agents** said "no more" and honestly? It's giving *accountability era*.
+**AI Forensic Agents** is a human-centered AI harms investigation service dedicated to the rigorous forensic analysis of failures, biases, and catastrophic outcomes engendered by artificial intelligence systems deployed at scale. We operate at the intersection of computational epistemology, sociotechnical systems theory, and regulatory science—providing organizations, policymakers, and affected communities with evidentiary-grade assessments of AI-induced harm.
 
-**AI Forensic Agents** is a **human-managed constellation of investigative services and diagnostic tools** purpose-built for the forensic analysis, causal attribution, and evidentiary documentation of **AI-caused damages** — and yes, we are dead serious beneath the day-glow exterior.
+Our foundational thesis is both historically grounded and empirically defensible:
 
-We operate at the intersection of **computational epistemology** and **applied algorithmic accountability**, deploying methodologies rooted in:
+> **Every transformative technology—steam power, electricity, the automobile, nuclear energy, and now artificial intelligence—initially precipitates catastrophic failures that demand the co-evolution of regulatory frameworks, social norms, and technological safeguards.**
 
-- 🧠 **Epistemological Framework Analysis** — Interrogating the knowledge-theoretic assumptions baked into AI systems that caused harm. What did the model "know"? What *could* it have known? We deconstruct the entire epistemic pipeline from training data provenance through inferential output, because the ontological commitments embedded in these systems are NOT neutral and that tea needs to be spilled forensically.
+The 19th-century steam boiler catastrophes that claimed thousands of lives across industrializing nations serve as perhaps the most instructive—and most neglected—historical analogue for the AI risk landscape we inhabit today. Those disasters did not merely occasion grief; they catalyzed the emergence of engineering standards bodies, statutory inspection regimes, actuarial science, and an entirely new professional ethics of mechanical engineering. The trajectory from unregulated innovation to institutional governance was neither inevitable nor frictionless—it was forged in the crucible of repeated, preventable loss.
 
-- 📊 **Stochastic Perturbation Analysis** — Systematically probing decision boundaries through controlled input perturbations to reconstruct the probabilistic fault surfaces that led to damaging outputs. We're literally reverse-engineering the chaos mathematics of how an AI ruined your day, your credit score, your medical diagnosis, or your entire livelihood. The variance decomposition goes crazy.
-
-- 🛡️ **Adversarial Robustness Auditing** — Evaluating whether the AI system in question maintained adequate resilience against distributional shift, adversarial inputs, or edge-case scenarios that a reasonably designed system should have anticipated. If the model folded under conditions that were *foreseeable*? That's negligence, babe. We document it with mathematical precision.
-
-- ⚖️ **Algorithmic Accountability Mapping** — Tracing the full sociotechnical dependency graph from model architecture decisions → training data curation → deployment context → harm manifestation. Every node in that causal DAG gets scrutinized. We produce accountability cartographies that would make a regulatory body weep with joy.
-
-- 🔍 **Counterfactual Impact Estimation** — Leveraging causal inference frameworks (Pearlian do-calculus, potential outcomes, structural causal models) to establish what *would have happened* absent the AI system's intervention. This is the "but-for" causation analysis that litigation teams actually need, except we do it with statistical rigor that peer reviewers would respect.
-
-This is **not** an automated tool that "audits AI" with another AI. That's recursive cope. **AI Forensic Agents** is a **human-managed service layer** — real investigators, real domain experts, real methodological frameworks — augmented by purpose-built diagnostic tooling. The humans are in the loop because the humans are THE loop. Period. No cap.
-
-We exist because the **post-deployment harm surface** of contemporary AI systems is expanding faster than institutional oversight mechanisms can adapt, and somebody needs to be in the trenches doing the actual forensic epistemology when things go catastrophically wrong. That somebody is us. We ate and left no crumbs.
+AI Forensic Agents exists to ensure that the contemporary reckoning with algorithmic harm need not recapitulate the full magnitude of suffering that preceded earlier technological governance regimes. We investigate. We document. We advocate for the institutionalization of safeguards *before* the catastrophe count compels it.
 
 ---
 
-## 📦 Marketing Assets
+## 📁 Repository Contents
 
-This repository contains the official marketing kit assets for promoting AI Forensic Agents across paid, organic, and partnership channels.
-
-| Asset | Path | Description |
-|-------|------|-------------|
-| 🖼️ **Static Ad Image** | `assets/ai-forensic-agents-banner.png` | Primary display advertisement banner — high-resolution, platform-optimized |
-| 📝 **Ad Copy** | `copy/ad-copy-primary.md` | Primary advertising text with headline, body, and CTA variants |
-| 📝 **Ad Copy Alternates** | `copy/ad-copy-variants/` | A/B test copy variants for segmented audience targeting |
-| 🌐 **Landing Page Guidelines** | `guidelines/landing-page-spec.md` | Full specification for click-through landing page design, content hierarchy, and conversion architecture |
-| 🎨 **Brand Guidelines** | `guidelines/brand-identity.md` | Color palette, typography, tone-of-voice reference, and logo usage rules |
-| 📐 **Asset Templates** | `templates/` | Editable design templates (Figma links, SVG source files) |
-| 📊 **Campaign Brief** | `briefs/campaign-brief-q1.md` | Strategic campaign overview, audience personas, KPIs, and channel allocation |
+| File | Description | Details |
+|:-----|:------------|:--------|
+| `ad-image.png` | Newsletter advertisement visual asset | 1800×1050px, greyscale, conservative typographic design suitable for professional and academic newsletter placements |
+| `ad-copy.txt` | Newsletter advertisement textual copy | Maximum 360 characters; distilled argumentative précis with call-to-action |
+| `Steam_Boiler_Disasters_Historical_Analysis.pdf` | Downloadable scholarly research document | Comprehensive historical analysis of 19th-century steam boiler disasters as precedent for AI risk governance frameworks |
+| `README.md` | This document | Repository overview, argument summary, specifications, and resource links |
+| `LICENSE` | MIT License | Open-source licensing terms governing redistribution and use |
 
 ---
 
 ## 📐 Ad Specifications
 
-### Static Display Image
+This repository contains marketing collateral designed for placement in professional newsletters, academic bulletins, and technology policy digests. All assets conform to the following specifications:
+
+### Image Asset — `ad-image.png`
 
 | Parameter | Specification |
-|-----------|--------------|
-| **Dimensions** | `1800 × 1050 px` |
-| **Aspect Ratio** | `12:7` (approximately 1.714:1) |
-| **File Format** | PNG (lossless, 24-bit RGB) |
-| **Color Space** | sRGB IEC61966-2.1 |
-| **Max File Size** | 5 MB |
-| **Safe Zone** | Minimum 60px inset from all edges for critical text/logo elements |
-| **Background** | Dark-field preferred — optimized for feed-scroll contrast and visual arrest |
+|:----------|:-------------|
+| **Dimensions** | 1800 × 1050 pixels |
+| **Aspect Ratio** | 12:7 (≈ 1.714:1) |
+| **Color Profile** | Greyscale (desaturated) |
+| **Aesthetic Register** | Conservative, typographically driven, institutionally credible |
+| **Format** | PNG (lossless compression) |
+| **Intended Contexts** | Email newsletters, Substack embeds, LinkedIn sponsored content, conference program inserts |
 
-### Ad Copy — Text Paragraph
-
-| Parameter | Specification |
-|-----------|--------------|
-| **Maximum Length** | **360 characters** (including spaces) |
-| **Headline** | 40 characters max, action-oriented |
-| **Body Text** | 280 characters max, value-proposition focused |
-| **CTA (Call to Action)** | 40 characters max, high-urgency language |
-| **Tone** | Authoritative yet accessible — "your PhD advisor who also has a fire TikTok" |
-| **Required Elements** | Must reference: (1) human-managed investigation, (2) AI-caused damages, (3) clear next step |
-
-### Landing Page Requirements
+### Text Asset — `ad-copy.txt`
 
 | Parameter | Specification |
-|-----------|--------------|
-| **Load Time** | < 2.5 seconds (Core Web Vitals compliant) |
-| **Mobile Responsiveness** | Mandatory — mobile-first design |
-| **Above-the-Fold Content** | Hero statement, single CTA button, trust indicators |
-| **Form Fields** | Maximum 4 fields for initial lead capture (name, email, damage type, brief description) |
-| **Social Proof Section** | Case study summaries, credential badges, methodology credibility markers |
-| **Compliance** | GDPR/CCPA-compliant data collection with explicit consent toggles |
-| **Analytics** | UTM parameter passthrough, conversion pixel placement, scroll-depth tracking |
-| **SSL** | HTTPS required — no exceptions |
+|:----------|:-------------|
+| **Maximum Length** | 360 characters (including spaces) |
+| **Rhetorical Mode** | Argumentative précis with historical anchoring |
+| **Tone** | Authoritative, scholarly, urgently measured |
+| **Target Audience** | AI/ML practitioners, technology policy professionals, regulatory bodies, venture-backed AI companies, academic researchers in STS and computing ethics |
+
+### Call-to-Action (CTA)
+
+The advertisement copy directs readers to engage with the AI Forensic Agents service through a clear, unambiguous call-to-action emphasizing:
+
+1. **Investigative consultation** — Engage our forensic analysis capabilities for AI system failures
+2. **Historical research access** — Download the Steam Boiler Disasters analysis PDF
+3. **Governance advocacy** — Join the movement toward proactive AI regulatory frameworks
 
 ---
 
-## 🔬 Services Overview
+## ⚙️ The Argument — Steam Boilers, Catastrophic Precedent, and the Imperative for AI Risk Governance
 
-AI Forensic Agents provides **human-managed investigative services** across the full lifecycle of AI harm — from initial incident detection through evidentiary documentation suitable for regulatory filings, litigation support, and organizational remediation.
+### I. The Recurring Pattern of Technological Catastrophe
 
-### 🕵️ Core Investigative Services
+The historiography of technological development reveals a disquieting but empirically robust pattern: transformative general-purpose technologies, upon initial deployment at scale, generate catastrophic failure modes that outpace existing institutional, legal, and normative capacities for mitigation. This pattern is not incidental—it is *structural*, arising from the fundamental asymmetry between the pace of technological diffusion and the pace of institutional adaptation.
 
-**1. Incident Triage & Preliminary Assessment**
-> First-response forensic evaluation of alleged AI-caused harm. We determine whether the damage vector is attributable to an AI system, characterize the harm typology, and scope the full investigation. Think of it as the ER intake but for algorithmic violence. Speed is everything here and we move FAST.
+Consider the canonical sequence:
 
-**2. Causal Attribution Analysis**
-> Deep-dive forensic reconstruction of the causal chain linking AI system behavior to documented damages. We employ structural causal modeling, counterfactual reasoning, and statistical fault isolation to establish attribution with evidentiary rigor. This is where the stochastic perturbation analysis hits different — we're literally mapping the probability manifold of "how did this system produce this specific harm."
+| Era | Technology | Characteristic Catastrophes | Governance Response |
+|:----|:-----------|:---------------------------|:-------------------|
+| 1800s–1900s | **Steam Power** | Boiler explosions aboard steamboats and in factories; thousands killed | ASME Boiler Code (1914), statutory inspection regimes, Hartford Steam Boiler Inspection & Insurance Company (1866) |
+| 1880s–1930s | **Electrification** | Electrocutions, fires, infrastructure failures | National Electrical Code (1897), utility regulation, UL certification |
+| 1900s–1970s | **Automobiles** | Mass traffic fatalities, pollution, urban destruction | NHTSA (1970), seatbelt mandates, emissions standards, tort liability evolution |
+| 1940s–present | **Nuclear Energy** | Three Mile Island, Chernobyl, Fukushima | NRC, IAEA, international non-proliferation treaties, probabilistic risk assessment methodologies |
+| 2010s–present | **Artificial Intelligence** | Algorithmic discrimination, autonomous vehicle fatalities, deepfake-mediated harms, surveillance overreach, labor displacement | *In statu nascendi* — fragmentary, jurisdictionally inconsistent, largely voluntarist |
 
-**3. Model Behavior Reconstruction**
-> Black-box and grey-box reverse engineering of AI system decision processes at the time of the damaging event. Through systematic probing, output analysis, and behavioral fingerprinting, we reconstruct a functional characterization of what the model did and why. Even when the deployer won't hand over model weights (and bestie, they never want to), we have methodologies.
+The critical observation is that **AI currently occupies the pre-regulatory catastrophe phase** that every predecessor technology traversed. The question is not *whether* comprehensive governance frameworks will emerge, but *how much preventable harm will accumulate before they do*.
 
-**4. Data Provenance Investigation**
-> Upstream forensic analysis of training data, fine-tuning data, and retrieval-augmented generation sources to identify whether data quality failures, representational harms in training corpora, or data poisoning contributed to the damaging output. The epistemological archaeology goes DEEP.
+### II. The Steam Boiler Precedent in Depth
 
-**5. Evidentiary Documentation & Expert Reporting**
-> Production of forensic reports suitable for regulatory submission, litigation discovery, insurance claims, and organizational governance proceedings. Our reports are structured to withstand adversarial scrutiny — because opposing counsel WILL try to pick them apart, and we do not give them the satisfaction.
+The 19th-century steam boiler disaster epoch constitutes an extraordinarily instructive case study for the contemporary AI risk landscape, and it is this precedent that anchors the analytical framework of AI Forensic Agents.
 
-**6. Remediation Advisory**
-> Post-investigation guidance on risk mitigation, system modification requirements, monitoring protocol design, and organizational process changes to prevent recurrence. We don't just diagnose — we prescribe. And the prescription is accountability with a side of robust governance frameworks.
+#### The Scale of Harm
 
-### 🧰 Diagnostic Tooling
+Between 1817 and 1911, steam boiler explosions in the United States alone killed an estimated **50,000 people**—a figure that, adjusted for population, would constitute a staggering mortality burden by contemporary standards. The 1865 explosion of the steamboat *Sultana* on the Mississippi River killed approximately 1,168 persons, making it the deadliest maritime disaster in American history. Factory boiler explosions were so commonplace that they constituted a routine feature of industrial journalism.
 
-In addition to human-led investigation, we develop and maintain **open-source and proprietary diagnostic tools** that support forensic workflows:
+#### The Governance Vacuum
 
-- **Perturbation analysis engines** for systematic decision boundary mapping
-- **Output consistency profilers** for detecting stochastic instability in AI responses
-- **Causal graph construction utilities** for modeling sociotechnical harm pathways
-- **Bias surface estimators** for quantifying differential impact across demographic strata
-- **Temporal behavior drift detectors** for identifying when model behavior deviated from baseline
+Despite the manifest lethality of unregulated boiler operation, **decades elapsed** before effective governance mechanisms emerged. The reasons for this regulatory latency are strikingly parallel to the contemporary AI governance landscape:
+
+- **Economic interests militated against regulation.** Boiler manufacturers and steamboat operators resisted inspection mandates as threats to commercial viability—precisely as contemporary AI companies frame compliance costs as impediments to innovation.
+- **Technical opacity impeded democratic oversight.** Legislators lacked the metallurgical and thermodynamic expertise to draft effective statutes—just as policymakers today struggle with the epistemic opacity of deep learning systems.
+- **Distributed causation obscured accountability.** Boiler explosions resulted from complex interactions among material fatigue, operator error, design deficiency, and maintenance neglect—a causal multiplicity that frustrated tort liability, much as algorithmic harms today resist attribution to any single actor.
+- **A culture of technological optimism suppressed precautionary impulses.** The ideology of industrial progress framed boiler explosions as an acceptable cost of modernization—a framing echoed in contemporary Silicon Valley discourse about "moving fast and breaking things."
+
+#### The Institutional Response
+
+The eventual emergence of effective boiler governance required the co-evolution of multiple institutional forms:
+
+1. **Voluntary engineering standards** — The American Society of Mechanical Engineers (ASME) promulgated the first Boiler and Pressure Vessel Code in 1914, establishing material specifications, design parameters, and fabrication standards.
+2. **Statutory inspection regimes** — State and federal legislation mandated periodic inspection by credentialed engineers, creating a public accountability mechanism.
+3. **Insurance-mediated risk governance** — The Hartford Steam Boiler Inspection and Insurance Company (founded 1866) pioneered a model in which insurers conducted independent inspections, aligning economic incentives with safety outcomes.
+4. **Professional ethics codification** — The engineering profession developed ethical codes that imposed personal responsibility on practitioners for public safety—a normative infrastructure entirely absent from contemporary AI development culture.
+5. **Forensic investigation capacity** — Post-disaster investigation became systematized, enabling root-cause analysis and iterative improvement of both technology and regulation.
+
+### III. The AI Analogy and the Case for Forensic Investigation
+
+AI Forensic Agents contends that the contemporary AI ecosystem urgently requires the development of analogous institutional capacities—and that **forensic investigation of AI harms** is the foundational prerequisite upon which all other governance mechanisms depend.
+
+Without rigorous, independent, evidentiary-grade investigation of AI system failures, the governance ecosystem cannot:
+
+- **Identify systemic failure modes** across deployments, vendors, and sectors
+- **Establish causal attributions** necessary for tort liability and regulatory enforcement
+- **Generate the empirical base** upon which standards bodies can promulgate technically sound specifications
+- **Provide affected communities** with the informational resources necessary for democratic participation in governance discourse
+- **Create the institutional memory** that prevents the recurrence of known failure modes
+
+This is precisely the function that AI Forensic Agents fulfills. We are, in effect, building the institutional analogue to the post-disaster boiler inspection teams of the 19th century—but with the ambition of operating *proactively* rather than exclusively *reactively*.
+
+### IV. Toward a Mature AI Governance Ecosystem
+
+The steam boiler precedent suggests that effective AI governance will ultimately require a comparable multi-institutional architecture:
+
+| Governance Function | Steam Boiler Analogue | AI Governance Equivalent (Proposed) |
+|:--------------------|:---------------------|:------------------------------------|
+| Technical standards | ASME Boiler Code | AI system safety standards (ISO/IEC 42001, NIST AI RMF, forthcoming) |
+| Statutory inspection | State boiler inspection laws | Mandatory algorithmic impact assessments, regulatory audits |
+| Insurance-mediated governance | Hartford Steam Boiler | AI liability insurance with independent audit requirements |
+| Professional ethics | Engineering codes of conduct | Enforceable AI practitioner ethics with licensure implications |
+| Forensic investigation | Post-disaster boiler inspection | **AI Forensic Agents** and analogous investigative bodies |
+| Democratic accountability | Public inquest and legislative testimony | Participatory AI governance, affected-community standing in regulatory proceedings |
+
+The maturation of this ecosystem is not a speculative aspiration—it is a historical inevitability. The only variable is the quantum of preventable harm that accumulates in the interim.
 
 ---
 
-## 💥 Use Cases
+## 📚 Resources
 
-Real talk — the range of AI-caused damages is *expanding at a velocity that should concern everyone*. Here are the categories of harm we investigate, and yes, every single one of these is happening right now in the wild:
+### Primary Research Document
 
-### 🏥 Healthcare & Medical AI Failures
-> AI diagnostic systems that misclassify conditions, triage algorithms that deprioritize patients based on proxy variables correlated with race or socioeconomic status, and clinical decision support tools that recommend inappropriate treatments. When an algorithm stands between a patient and correct care, the failure mode is literally life and death. We forensically reconstruct what went wrong and establish whether the system's epistemic limitations were known (or knowable) prior to deployment.
+📄 **[Steam Boiler Disasters — Historical Analysis (PDF)](https://github.com/AIForensicAgents/steam-boiler-disasters-nature-article/blob/bca7a0440c4f9b9170ca50dbc8c4872b0813f174/Steam_Boiler_Disasters_Historical_Analysis.pdf)**
 
-### 💰 Financial & Credit Scoring Harm
-> Algorithmic credit denial, AI-driven lending discrimination, automated fraud detection systems that freeze legitimate accounts and destroy livelihoods, and robo-advisory tools that execute catastrophic portfolio decisions. The stochastic perturbation analysis is particularly devastating here — we can often demonstrate that nearly-identical applicants received wildly divergent outcomes based on features that serve as proxied protected characteristics. The math does not lie.
+> A comprehensive scholarly analysis of 19th-century steam boiler catastrophes as a historiographic lens for understanding the trajectory of AI risk governance. The document examines the political economy of regulatory latency, the institutional innovations that ultimately mitigated boiler-related mortality, and the precise mechanisms by which this historical precedent illuminates contemporary AI governance challenges.
 
-### 👤 Wrongful Identification & Surveillance
-> Facial recognition misidentification leading to false arrest, AI-powered surveillance systems that disproportionately target marginalized communities, and biometric matching failures with life-altering consequences. We perform adversarial robustness audits on the identification systems involved and quantify the error rates across demographic subgroups. If the system was deployed knowing its failure rates were inequitable? That's our evidentiary goldmine.
+### Supplementary Reading
 
-### 📄 Employment & Hiring Discrimination
-> AI resume screening tools that systematically filter out qualified candidates based on proxied protected characteristics, automated interview scoring systems with unvalidated psychometric claims, and workforce analytics platforms that generate discriminatory performance predictions. We reverse-engineer the screening logic and document the disparate impact with statistical rigor that regulators actually respond to.
-
-### 🏠 Housing & Insurance Discrimination
-> Algorithmic pricing models in insurance that encode geographic or demographic bias, AI-powered tenant screening that perpetuates housing discrimination, and automated property valuation systems that systematically undervalue properties in communities of color. The algorithmic accountability mapping on these cases is *chef's kiss* because the causal DAGs are so clearly traceable.
-
-### 🗣️ Content & Reputation Harm
-> AI content moderation systems that disproportionately silence specific communities, generative AI that produces defamatory synthetic content, recommendation algorithms that amplify harassment campaigns, and AI-generated content attributed to real individuals without consent. The epistemological framework analysis here is critical — we interrogate what the system's training data "taught" it about whose speech matters and whose doesn't.
-
-### 🚗 Autonomous System Failures
-> Self-driving vehicle incidents, autonomous drone operations causing property damage or injury, robotic system malfunctions in industrial or consumer contexts, and AI-controlled infrastructure failures. We reconstruct the decision-state timeline of the autonomous system leading up to the incident with forensic granularity.
-
-### 📚 Educational AI Harm
-> AI proctoring systems that falsely flag students for cheating (with documented racial bias in gaze-tracking), automated grading systems that penalize dialectal variation in language, and AI-powered educational recommendations that reinforce tracking and stratification. The counterfactual impact estimation is particularly powerful here — we can model what the student's trajectory would have looked like absent the AI's intervention.
-
----
-
-## 🤝 Contributing
-
-We are SO here for community contributions to the marketing kit. Whether you're a designer, copywriter, strategist, or just someone who has strong opinions about kerning (valid), we want to hear from you.
-
-### How to Contribute
-
-1. **Fork** this repository
-2. **Create a feature branch** (`git checkout -b feature/your-contribution-name`)
-3. **Make your changes** — follow the brand guidelines in `guidelines/brand-identity.md`
-4. **Test all assets** — verify image dimensions, character counts, and spec compliance
-5. **Commit with clear messages** (`git commit -m "Add: alternate ad copy for healthcare vertical"`)
-6. **Push to your branch** (`git push origin feature/your-contribution-name`)
-7. **Open a Pull Request** with a description of what you changed and why
-
-### Contribution Guidelines
-
-- All ad copy must adhere to the **360-character maximum** specification
-- Image assets must be submitted at **1800 × 1050 px** in **PNG format**
-- New copy variants should include a brief rationale for the messaging angle
-- All contributions must align with the brand tone: **authoritative, accessible, and absolutely uncompromising on accountability**
-- Please do not submit AI-generated marketing copy without disclosure — yes we see the irony, no we do not care, quality control is quality control
-- Be respectful in all interactions — our Code of Conduct applies to all contributors
-
-### Reporting Issues
-
-Found a typo? Spec inconsistency? Asset that doesn't render correctly? Open an issue with the `bug` or `improvement` label and we'll get on it expeditiously.
+- Burke, J. (1966). *The New Technology and Human Values*. Wadsworth Publishing.
+- Perrow, C. (1984). *Normal Accidents: Living with High-Risk Technologies*. Basic Books.
+- Jasanoff, S. (2016). *The Ethics of Invention: Technology and the Human Future*. W.W. Norton.
+- Selbst, A.D., et al. (2019). "Fairness and Abstraction in Sociotechnical Systems." *Proceedings of ACM FAT\**.
+- Raji, I.D., et al. (2020). "Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing." *Proceedings of ACM FAT\**.
+- National Institute of Standards and Technology. (2023). *AI Risk Management Framework (AI RMF 1.0)*.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the complete terms.
 
-```
-MIT License
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the materials contained herein, subject to the conditions specified in the MIT License. Attribution is appreciated but not required beyond the license terms.
 
-Copyright (c) 2024 AI Forensic Agents
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 🤝 Contact & Engagement
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+AI Forensic Agents welcomes inquiries from:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+- **Organizations** experiencing or investigating AI system failures
+- **Policymakers** developing AI governance frameworks
+- **Researchers** working at the intersection of STS, computing ethics, and regulatory science
+- **Journalists** covering AI harms and accountability
+- **Affected communities** seeking evidentiary support for advocacy or litigation
 
-See [`LICENSE`](
+---
+
+<div align="center">
+
+*"The history of steam is written in scalding water and shattered iron.*
+*The history of AI need not be written in equivalent suffering—*
+*but only if we choose to learn from the precedent."*
+
+**AI Forensic Agents** · Investigation · Precedent · Governance
+
+</div>
